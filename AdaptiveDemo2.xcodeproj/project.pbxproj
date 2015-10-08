@@ -16,6 +16,7 @@
 		903DB0E61BC3FD6A005EB6D3 /* AdaptiveDemo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 903DB0E51BC3FD6A005EB6D3 /* AdaptiveDemo2UITests.swift */; };
 		903DB0F81BC40259005EB6D3 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 903DB0F71BC40259005EB6D3 /* Post.swift */; settings = {ASSET_TAGS = (); }; };
 		903DB0FA1BC40472005EB6D3 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 903DB0F91BC40472005EB6D3 /* PostTableViewCell.swift */; settings = {ASSET_TAGS = (); }; };
+		9074A15F1BC60F9E0060434D /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9074A15E1BC60F9E0060434D /* PostViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		903DB0E71BC3FD6A005EB6D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		903DB0F71BC40259005EB6D3 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		903DB0F91BC40472005EB6D3 /* PostTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		9074A15E1BC60F9E0060434D /* PostViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				903DB0D11BC3FD6A005EB6D3 /* Info.plist */,
 				903DB0F71BC40259005EB6D3 /* Post.swift */,
 				903DB0F91BC40472005EB6D3 /* PostTableViewCell.swift */,
+				9074A15E1BC60F9E0060434D /* PostViewController.swift */,
 			);
 			path = AdaptiveDemo2;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				903DB0C61BC3FD6A005EB6D3 /* AppDelegate.swift in Sources */,
 				903DB0F81BC40259005EB6D3 /* Post.swift in Sources */,
 				903DB0FA1BC40472005EB6D3 /* PostTableViewCell.swift in Sources */,
+				9074A15F1BC60F9E0060434D /* PostViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

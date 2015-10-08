@@ -11,7 +11,7 @@ import UIKit
 class PostTableViewCell: UITableViewCell {
     
     @IBOutlet weak var avatarImageView: UIImageView!
-    @IBOutlet weak var contentLabel: UILabel!
+    @IBOutlet weak var titleLabel: UILabel!
     
     var post: Post? {
         didSet {
@@ -21,7 +21,7 @@ class PostTableViewCell: UITableViewCell {
     
     private func configureCell() {
         avatarImageView.image = post?.avatarImage
-        contentLabel.text = post?.content
+        titleLabel.text = post?.title
     }
     override func awakeFromNib() {
         super.awakeFromNib()
