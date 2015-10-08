@@ -18,6 +18,7 @@
 		903DB0FA1BC40472005EB6D3 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 903DB0F91BC40472005EB6D3 /* PostTableViewCell.swift */; settings = {ASSET_TAGS = (); }; };
 		9074A15F1BC60F9E0060434D /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9074A15E1BC60F9E0060434D /* PostViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		9074A1611BC6264C0060434D /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9074A1601BC6264C0060434D /* MainViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		9074A1631BC668840060434D /* MyNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9074A1621BC668840060434D /* MyNavigationController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		903DB0F91BC40472005EB6D3 /* PostTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		9074A15E1BC60F9E0060434D /* PostViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 		9074A1601BC6264C0060434D /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		9074A1621BC668840060434D /* MyNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyNavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				903DB0F91BC40472005EB6D3 /* PostTableViewCell.swift */,
 				9074A15E1BC60F9E0060434D /* PostViewController.swift */,
 				9074A1601BC6264C0060434D /* MainViewController.swift */,
+				9074A1621BC668840060434D /* MyNavigationController.swift */,
 			);
 			path = AdaptiveDemo2;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				903DB0C61BC3FD6A005EB6D3 /* AppDelegate.swift in Sources */,
 				903DB0F81BC40259005EB6D3 /* Post.swift in Sources */,
 				9074A1611BC6264C0060434D /* MainViewController.swift in Sources */,
+				9074A1631BC668840060434D /* MyNavigationController.swift in Sources */,
 				903DB0FA1BC40472005EB6D3 /* PostTableViewCell.swift in Sources */,
 				9074A15F1BC60F9E0060434D /* PostViewController.swift in Sources */,
 			);

@@ -207,10 +207,10 @@
             </objects>
             <point key="canvasLocation" x="1377" y="438"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--My Navigation Controller-->
         <scene sceneID="M3a-d4-Bgs">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="k9K-w1-19y" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="k9K-w1-19y" customClass="MyNavigationController" customModule="AdaptiveDemo2" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="0Ge-qj-qti">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
