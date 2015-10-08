@@ -22,6 +22,8 @@ class PostListViewController: UITableViewController {
         // Do any additional setup after loading the view, typically from a nib.
         tableView.rowHeight = UITableViewAutomaticDimension
         tableView.estimatedRowHeight = 100
+        //去掉cell太少没有占满屏幕时会显示多余的分隔线的问题
+        tableView.tableFooterView = UIView();
     }
 
     override func didReceiveMemoryWarning() {

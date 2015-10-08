@@ -27,7 +27,7 @@ class MainViewController: UIViewController, PostCollectionContainer {
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        title = "Main View Controller"
         // Do any additional setup after loading the view.
         
     }
